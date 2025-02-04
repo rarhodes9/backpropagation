@@ -7,7 +7,6 @@ A simple demonstration of binary classification on a circle vs. not-circle datas
 2. [File 1: circle_classification.py](#file-1-circle_classificationpy)  
 3. [File 2: circle_classification_pytorch.py](#file-2-circle_classification_pytorchpy)  
 4. [Why PyTorch Is More Efficient](#why-pytorch-is-more-efficient-and-scalable)  
-5. [Conclusion](#conclusion)
 
 ## Introduction
 This repository contains two files demonstrating how to perform binary classification on a simple “circle vs. not-circle” dataset:
